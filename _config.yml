@@ -1,0 +1,63 @@
+# Build settings
+markdown: kramdown
+remote_theme: daviddarnes/alembic
+plugins:
+  - jekyll-default-layout
+  - jekyll-feed
+  - jekyll-include-cache
+  - jekyll-mentions
+  - jekyll-paginate
+  - jekyll-redirect-from
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jemoji
+
+# Jekyll settings
+sass:
+  style: compressed
+
+# Site settings
+encoding: utf-8
+lang: en-US
+title: "Vancouver Island Security Research Society - VISRS"
+description: ""
+logo: "/assets/logos/VISRS_LOGO.png"
+url: "https://visrs.github.io"
+baseurl: ""
+repo: "https://github.com/bsidesvi/visrs.github.io"
+email: "info@visrs.ca"
+css_inline: false
+
+# Site favicons & manifest icons
+favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
+  16: '/assets/logos/logo@16px.png'
+  32: '/assets/logos/logo@32px.png'
+  96: '/assets/logos/logo@96px.png'
+  120: '/assets/logos/logo@120px.png'
+  144: '/assets/logos/logo@144px.png'
+  180: '/assets/logos/logo@180px.png'
+  512: '/assets/logos/logo@512px.png'
+  1024: '/assets/logos/logo@1024px.png'
+
+# Site navigation
+navigation_header:
+- title: Home
+  url: /
+- title: About Us
+  url: /about/
+- title: Programs & Events
+  url: /programs/
+- title: Join our Slack
+  url: https://communityinviter.com/apps/visrs/visrs
+- title: Contact Us
+  url: /contact/
+
+navigation_footer:
+- title: Vancouver Island Security Research Society
+  url: https://www.visrs.ca
+
+sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
+  Twitter: "#0d94e7"
+  facebook: "#3B5998"
+  Email: true
