@@ -27,6 +27,7 @@ VISRS achieves this by Providing an ongoing open, safe, and inclusive forum to s
 </tr>
 <tr style="height: 43.0273px;">
 <td style="height: 43.0273px; text-align: center;"><strong>Daniel Insley</strong><br />Director</td>
+<td style="height: 43.0273px; text-align: center;"><strong>Kimber Dray</strong><br />Director</td>
 <td style="height: 43.0273px; text-align: center;"><strong>Sandy Buchanan</strong><br />Director</td>
 <td style="height: 43.0273px; text-align: center;"><strong>Tanya Janca</strong><br />Director</td>
 <td style="height: 43.0273px; text-align: center;">&nbsp;</td>
