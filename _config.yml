@@ -13,10 +13,6 @@ plugins:
   - jekyll-sitemap
   - jemoji
 
-# Jekyll settings
-sass:
-  style: compressed
-
 # Site settings
 encoding: utf-8
 lang: en-US
@@ -28,6 +24,9 @@ baseurl: ""
 repo: "https://github.com/bsidesvi/visrs.github.io"
 email: "info@visrs.ca"
 css_inline: false
+permalink: pretty
+sass:
+  style: compressed
 
 # Site favicons & manifest icons
 favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
