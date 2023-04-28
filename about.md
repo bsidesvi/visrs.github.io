@@ -16,8 +16,8 @@ VISRS achieves this by Providing an ongoing open, safe, and inclusive forum to s
 <tr style="height: 33px;">
 <td style="height: 33px; text-align: center;"><strong>Ryan Smith</strong><br />Board Chair</td>
 <td style="height: 33px; text-align: center;"><strong>Dom Kapac</strong><br />Board Vice Chair</td>
-<td style="height: 33px; text-align: center;"><strong>Joe Kirwin</strong><br />Board Treasurer</td>
-<td style="height: 33px; text-align: center;"><strong>Caleb Shortt</strong><br />Board Secretary</td>
+<td style="height: 33px; text-align: center;"><strong>Dan Lynch</strong><br />Board Treasurer</td>
+<td style="height: 33px; text-align: center;"><strong>Sonia Barrios</strong><br />Board Secretary</td>
 </tr>
 <tr style="height: 15px;">
 <td style="height: 15px; text-align: center;">&nbsp;</td>
@@ -26,10 +26,10 @@ VISRS achieves this by Providing an ongoing open, safe, and inclusive forum to s
 <td style="height: 15px; text-align: center;">&nbsp;</td>
 </tr>
 <tr style="height: 43.0273px;">
-<td style="height: 43.0273px; text-align: center;"><strong>Daniel Insley</strong><br />Director</td>
-<td style="height: 43.0273px; text-align: center;"><strong>Kimber Dray</strong><br />Director</td>
-<td style="height: 43.0273px; text-align: center;"><strong>Sandy Buchanan</strong><br />Director</td>
-<td style="height: 43.0273px; text-align: center;"><strong>Tanya Janca</strong><br />Director</td>
+<td style="height: 43.0273px; text-align: center;"><strong>Will Whittaker</strong><br />Director</td>
+<td style="height: 43.0273px; text-align: center;"><strong>Fieran Mason-Blakley</strong><br />Director</td>
+<td style="height: 43.0273px; text-align: center;"><strong>Caner Budakoglu</strong><br />Director</td>
+<td style="height: 43.0273px; text-align: center;"><strong>Chris Jarrett</strong><br />Director</td>
 <td style="height: 43.0273px; text-align: center;">&nbsp;</td>
 </tr>
 </tbody>
