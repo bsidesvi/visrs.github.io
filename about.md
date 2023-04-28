@@ -6,8 +6,7 @@ feature_image: "/assets/images/SERVER_ROOM1.jpg"
 ---
 
 
-The Vancouver Island Security Research Society (VISRS) was founded is to promote, evolve, and facilitate collaboration, research and development within the information and cyber security community on Vancouver Island
-VISRS achieves this by Providing an ongoing open, safe, and inclusive forum to share learning, knowledge, skills, experience, ideas and innovation in the information and cyber security field.
+The Vancouver Island Security Research Society (VISRS) is a non-profit organization that aims to foster and support the information and cyber security community on Vancouver Island. VISRS does this by creating and hosting events, workshops, and forums where security professionals can learn, share, and collaborate with each other. VISRS also connects local businesses, academics, and society members with security experts and resources.
  
 ## Board of Directors
 
